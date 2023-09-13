@@ -19,6 +19,7 @@
     background: #EAEAEA;
     flex-wrap: wrap;
     z-index: 1000;
+    overflow-y: hidden;
 }
 
 .nav-2 {
